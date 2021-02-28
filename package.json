@@ -1,0 +1,35 @@
+{
+  "name": "devcampapi",
+  "version": "1.0.0",
+  "description": "DevCamper Backend Api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "NODE_ENV=production node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svetoslav-vladov/DevCampApi.git"
+  },
+  "keywords": [
+    "dev",
+    "bootcamp",
+    "api",
+    "backend"
+  ],
+  "student": "Svetoslav Vladov",
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svetoslav-vladov/DevCampApi/issues"
+  },
+  "homepage": "https://github.com/svetoslav-vladov/DevCampApi#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}

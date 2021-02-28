@@ -7,3 +7,7 @@ Developer bootcamp backend
 - NodeJS
 - Express
 - MongoDB
+
+# Important:
+
+- check config directory, you need a config.env with your configurations
