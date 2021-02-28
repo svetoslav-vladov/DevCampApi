@@ -6,7 +6,9 @@ Developer bootcamp backend
 
 - NodeJS
 - Express
+
 - MongoDB
+- Mongoose
 
 # Important:
 
